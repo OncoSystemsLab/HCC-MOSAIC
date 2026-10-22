@@ -1,2 +1,2 @@
 # HCC-MOSAIC
-Multi-Omics Signature Atlas for Immunotherapy Characterization of HCC (HCC-MOSAIC).
+Multi-Omics Signature Atlas for Immunotherapy Characterization of HCC (HCC-MOSAIC) is an interactive research atlas for hepatocellular carcinoma that integrates transcriptomic profiles across cohorts, somatic mutation–program associations, and evidence of immunotherapy response. Explore molecular programs, place uploaded RNA profiles in the context of reference cohorts, and generate reproducible analyses using a frozen ICB model and evidence-guided research tools.
